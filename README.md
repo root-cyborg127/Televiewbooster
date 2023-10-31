@@ -43,6 +43,9 @@ This Python script is your ticket to skyrocketing the view count on any post wit
 2. **Install Dependencies**: Ensure you have the required Python packages by running the following command:
 
    ```bash
+   git clone https://github.com/root-cyborg127/Televiewbooster
+   ```
+   ```
    pip install requests
  ```
    pip install configparser
