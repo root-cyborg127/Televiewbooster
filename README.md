@@ -56,7 +56,20 @@ This Python script is your ticket to skyrocketing the view count on any post wit
    
 
 
+## PROOF OF WORKING 👀
+<b>VIDEO</b><p align="center">
+  <img src="working.mp4" alt="watch now!" width="500">
+</p>
 
+- BEFORE :
+ <p align="center">
+  <img src="proof.png" alt=Before!" width="500">
+</p>
+
+- AFTER :
+   <p align="center">
+  <img src="ss1.png" alt=Before!" width="720"><img src="ss2.png" alt=Before!" width="500">
+</p>
 
 ## 🧙‍♂️ Observation
 - Sit back and watch as the script works its magic. It will scrape proxy sources, acquire view tokens, and commence the view-boosting process. The live view count will be displayed in the text-based user interface.
